@@ -1,0 +1,60 @@
+{
+    "items": [
+        {
+            "title": "Main Library",
+            "from": "7:00AM",
+            "to": "10:00PM",
+            "itemType": "Major Item",
+            "displayText": ""
+        },
+        {
+            "title": "Help Zone staff available",
+            "from": "9:00AM",
+            "to": "7:00PM",
+            "itemType": "Minor Item",
+            "displayText": ""
+        },
+        {
+            "title": "Level 2 swipe access A\/H",
+            "from": "12:00AM",
+            "to": "12:00AM",
+            "itemType": "Minor Item",
+            "displayText": "24 Hours"
+        },
+        {
+            "title": "Wye Space",
+            "from": null,
+            "to": null,
+            "itemType": "Minor Item",
+            "displayText": "Closed"
+        },
+        {
+            "title": "Law Library",
+            "from": "7:00AM",
+            "to": "10:00PM",
+            "itemType": "Major Item",
+            "displayText": ""
+        },
+        {
+            "title": "Help Zone staff available",
+            "from": "9:00AM",
+            "to": "7:00PM",
+            "itemType": "Minor Item",
+            "displayText": ""
+        },
+        {
+            "title": "Paddington Library",
+            "from": "8:00AM",
+            "to": "8:30PM",
+            "itemType": "Major Item",
+            "displayText": ""
+        },
+        {
+            "title": "Help Zone staff available",
+            "from": "8:00AM",
+            "to": "7:00PM",
+            "itemType": "Minor Item",
+            "displayText": ""
+        }
+    ]
+}
